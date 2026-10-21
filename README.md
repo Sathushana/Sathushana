@@ -15,10 +15,14 @@ I am a highly motivated and curious undergraduate passionate about **Machine Lea
 
 ## 🧠 Skills
 
-- **Programming:** Python, R, SQL, Excel, MongoDB 
-- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PySpark, Tensorflow  
-- **Techniques:** Machine Learning, Data Analysis, Statistical Modeling, Optimization , Deep Learning 
-- **Soft Skills:** Problem-Solving, Collaboration, Adaptability  
+- **Languages:** Python, SQL, R, TypeScript/JavaScript  
+- **AI & LLMs:** LLM orchestration, multi-agent systems, prompt engineering, Ollama, GPT-4, OCR pipelines  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, PySpark, Deep Learning, Statistical Modeling, Optimization  
+- **Computer Vision:** MediaPipe, ViT, EfficientNet  
+- **Backend:** FastAPI, SQLAlchemy, REST APIs, PostgreSQL, MySQL, MongoDB  
+- **Frontend & Mobile:** Next.js, React, Tailwind CSS, React Native, Expo  
+- **Tools & Deployment:** Git, Railway, EAS, Matplotlib, Seaborn, Excel  
+- **Soft Skills:** Problem-Solving, Collaboration, Adaptability 
 
 ---
 
