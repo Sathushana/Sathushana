@@ -3,7 +3,7 @@
 🎓 **Final Year Undergraduate**  
 📊 **BSc (Hons) in Statistics and Operations Research**  
 🏅 **First Class Honours – University of Peradeniya**  
-💼 **AI/ML Engineering Intern at OXZON AI**
+💼 **Associate AI/ML Engineer**
 
 ---
 
